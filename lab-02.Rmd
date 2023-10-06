@@ -85,7 +85,7 @@ plastic_data_all %>% head(n = 10)
 plastic_data_all %>% 
   count(region)
 
-
+#Africa has the highest number of coastal countries
 ```
 
 
